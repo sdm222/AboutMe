@@ -47,6 +47,6 @@
   - Assisted coaches in organizing players into teams for the spring seasons.
   - Led players in fitness drills, practices, and scrimmages.
 
-**Skills**** : Proficient in Microsoft Excel, PowerPoint, and Word. Experience using R Studio.
+**Skills** : Proficient in Microsoft Excel, PowerPoint, and Word. Experience using R Studio.
 
 **Interests** : Enjoy music production, cooking, physical fitness, and reading.
